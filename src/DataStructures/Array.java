@@ -1,3 +1,5 @@
+package DataStructures;
+
 public class Array {
 
     private int[] numbers;
@@ -9,7 +11,7 @@ public class Array {
         this.count = 0;
     }
 
-    // A java class with methods for Array Operations
+    // A java class with methods for DataStructures.Array Operations
     public void insert(int item) {
         //Time complexity = O(n)
         if (isArrayFull(numbers)) {

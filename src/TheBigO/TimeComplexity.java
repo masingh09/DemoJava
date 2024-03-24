@@ -1,3 +1,5 @@
+package TheBigO;
+
 public class TimeComplexity {
     // A demo class to understand calculation of time complexity
     public static void demoPrintNumbers() {
