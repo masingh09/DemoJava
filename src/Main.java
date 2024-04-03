@@ -10,7 +10,8 @@ public class Main {
         //TheBigO.TimeComplexity.demoPrintNumbers();
         //arrayOperations();
         //linkedListOperations();
-        bubbleSortArray();
+        //bubbleSortArray();
+        int[] nums = new int[] {64, 34, 25, 12, 22, 11, 90, 5};
     }
 
     public static void bubbleSortArray() {
